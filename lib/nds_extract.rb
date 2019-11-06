@@ -27,7 +27,7 @@ end
 def list_of_directors(source)
 
    directors_names = []
-   
+
    p source[1][:name]
 end
 
