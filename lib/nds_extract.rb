@@ -34,7 +34,7 @@ def list_of_directors(source)
      i += 1
    end
 
- directors_names
+ p directors_names
 
 end
 
