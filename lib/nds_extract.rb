@@ -60,7 +60,7 @@ def total_gross(source)
     i += 1
   end
 
-directors_totals(source)['Stephen Spielberg']
+list_of_directors
 
 # p directors_totals(directors_database)[director_data[:name]] - example of what you did in last session
 
