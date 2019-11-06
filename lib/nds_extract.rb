@@ -29,9 +29,10 @@ def list_of_directors(source)
    directors_names = []
    i = 0
 
-   while i = source.length do
-     directors_names.push((source[i][:name]))
-   end
+  source.length
+   #while i = source.length do
+     #directors_names.push(source[i][:name])
+   #end
 
 end
 
