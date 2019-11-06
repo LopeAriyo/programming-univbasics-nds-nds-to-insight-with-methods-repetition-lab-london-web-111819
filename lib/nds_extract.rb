@@ -55,6 +55,16 @@ def total_gross(source)
 
   directors_totals(source)
   list_of_directors(source).length
+
+  until i == list_of_directors(source).length do
+    running_total += directors_totals(source)
+    i += 1
+  end
+
+ p directors_names
+
+
+  
 # p directors_totals(directors_database)[director_data[:name]] - example of what you did in last session
 
 
