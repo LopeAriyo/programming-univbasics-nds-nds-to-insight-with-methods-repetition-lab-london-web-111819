@@ -50,7 +50,7 @@ def total_gross(source)
   # return the total
 
   directors_totals(source)
-
+  list_of_directors(source)
 
 
 end
