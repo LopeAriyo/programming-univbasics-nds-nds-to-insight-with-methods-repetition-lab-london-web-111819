@@ -49,10 +49,10 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
 
-  i = 0 
-  running_total = 0 
+  i = 0
+  running_total = 0
 
-  
+
   directors_totals(source)
   list_of_directors(source).length
 # p directors_totals(directors_database)[director_data[:name]] - example of what you did in last session
