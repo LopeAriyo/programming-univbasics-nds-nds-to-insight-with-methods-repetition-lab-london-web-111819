@@ -60,11 +60,6 @@ def total_gross(source)
     i += 1
   end
 
-
-
-# p directors_totals(directors_database)[director_data[:name]] - example of what you did in last session
-
-
 running_total
 
 end
